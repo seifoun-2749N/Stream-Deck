@@ -1,0 +1,10 @@
+Item,Description,Quantity,Notes,Source/Link
+Push Button,Push Buttons for the physical buttons,24,n/a,E-shop : https://little-son.tn/accueil/731-bouton-tactile-mini-switch-665-mm-4-pins.html
+1N4148 diode,1N4148 diode mounted with the buttons,24,to avoid ghosting problem,E-shop : https://little-son.tn/accueil/1402-diode-de-signal-1n4148.html
+perforated plate,perfored plate 90*150mm,1,use the appropriate size to fit properly in the box,E-shop : https://little-son.tn/accueil/662-plaque-perforee-915-cm-verte-simple-face.html
+soldering supplies,,as you need,n/a,E-shop : 
+M3 - 12  screw,are used to maintain the perforated plate,4,n/a,E-shop : https://little-son.tn/accueil/1067-vis-m3x12mm-a-tete-fraisee-cruciforme-en-inox-304.html
+hexagonal nuts for M3 screws,are used to maintain the perforated plate,4,n/a,E-shop : https://little-son.tn/accueil/568-ecrou-en-inox-304-pour-vis-m3.html
+Arduino Pro Micro,the microcontroller used in the project,,you can replace it but it should be able to comunicate with PC via USB,E-shop : https://little-son.tn/accueil/97-arduino-pro-micro-atmega-32u4.html
+MDF sheet,5mm MDF sheet,,you can make a 3D printing but it may be more expansive,FabLab AJST
+wires,,as you need,n/a,Robotics shop : https://tuni-smart-innovation.com/products/kit-de-fil-de-cavalier-en-forme-de-u-840-pieces?_pos=26&_sid=a0a41e5d4&_ss=r
