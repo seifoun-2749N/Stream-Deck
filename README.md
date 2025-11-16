@@ -23,4 +23,4 @@ This Stream Deck is an open source device that you can build it yourself and cos
 
 # Software requirements
 
-*Keyboard.h library
+* Keyboard.h library
